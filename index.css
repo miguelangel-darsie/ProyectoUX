@@ -1,0 +1,17 @@
+/* Vamos a usar CSS GRID */
+
+* {
+ margin: 0px;
+ box-sizing: border-box,
+
+}
+
+.secciones {
+    height: 100vh;
+    border: 1px solid black; 
+    background-color: darkgrey; 
+}
+
+#seccion4 {
+    height: 200vh;
+}
